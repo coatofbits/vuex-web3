@@ -1,0 +1,25 @@
+{
+    "name": "@coatofbits/vuex-web3",
+    "version": "1.0.0",
+    "description": "Vuex module to manage Web3 state",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/coatofbits/vuex-web3.git"
+    },
+    "keywords": [
+        "ethereum",
+        "web3",
+        "vue",
+        "vuex"
+    ],
+    "author": "Jim McDonald <Jim.McDonald@wealdtech.com>",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/coatofbits/vuex-web3/issues"
+    },
+    "homepage": "https://github.com/coatofbits/vuex-web3#readme"
+}
